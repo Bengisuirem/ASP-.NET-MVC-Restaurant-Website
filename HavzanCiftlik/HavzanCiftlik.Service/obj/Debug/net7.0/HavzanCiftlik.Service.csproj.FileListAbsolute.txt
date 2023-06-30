@@ -1,0 +1,14 @@
+C:\Users\lenovo\source\repos\HavzanCiftlik\HavzanCiftlik.Service\bin\Debug\net7.0\HavzanCiftlik.Service.deps.json
+C:\Users\lenovo\source\repos\HavzanCiftlik\HavzanCiftlik.Service\bin\Debug\net7.0\HavzanCiftlik.Service.runtimeconfig.json
+C:\Users\lenovo\source\repos\HavzanCiftlik\HavzanCiftlik.Service\bin\Debug\net7.0\HavzanCiftlik.Service.dll
+C:\Users\lenovo\source\repos\HavzanCiftlik\HavzanCiftlik.Service\bin\Debug\net7.0\HavzanCiftlik.Service.pdb
+C:\Users\lenovo\source\repos\HavzanCiftlik\HavzanCiftlik.Service\obj\Debug\net7.0\HavzanCiftlik.Service.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\HavzanCiftlik\HavzanCiftlik.Service\obj\Debug\net7.0\HavzanCiftlik.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\HavzanCiftlik\HavzanCiftlik.Service\obj\Debug\net7.0\HavzanCiftlik.Service.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\HavzanCiftlik\HavzanCiftlik.Service\obj\Debug\net7.0\HavzanCiftlik.Service.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\HavzanCiftlik\HavzanCiftlik.Service\obj\Debug\net7.0\HavzanCiftlik.Service.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\HavzanCiftlik\HavzanCiftlik.Service\obj\Debug\net7.0\HavzanCiftlik.Service.dll
+C:\Users\lenovo\source\repos\HavzanCiftlik\HavzanCiftlik.Service\obj\Debug\net7.0\refint\HavzanCiftlik.Service.dll
+C:\Users\lenovo\source\repos\HavzanCiftlik\HavzanCiftlik.Service\obj\Debug\net7.0\HavzanCiftlik.Service.pdb
+C:\Users\lenovo\source\repos\HavzanCiftlik\HavzanCiftlik.Service\obj\Debug\net7.0\HavzanCiftlik.Service.genruntimeconfig.cache
+C:\Users\lenovo\source\repos\HavzanCiftlik\HavzanCiftlik.Service\obj\Debug\net7.0\ref\HavzanCiftlik.Service.dll

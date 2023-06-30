@@ -1,0 +1,54 @@
+﻿@model IEnumerable<HavzanCiftlik.Service.Models.Menu>
+
+<h2>
+	Menü
+</h2>
+
+
+<p>
+	<a asp-action="Create" class="btn btn-primary">Menüye Ekleme Yap</a>
+</p>
+
+@if (TempData["success"] != null)
+{
+	@section Scripts{
+	<script>
+		toastr.success('@TempData["success"]');
+	</script>
+                }
+
+}
+@if (TempData["error"] != null)
+{
+	@section Scripts{
+	<script>
+		toastr.error('@TempData["error"]');
+	</script>
+                }
+}
+
+Hoşgeldiniz @TempData["user"]
+
+
+<table class="table table-bordered">
+	<tr>
+		<th>Id</th>
+		<th>Adı</th>
+		<th>Fiyatı</th>
+		
+	</tr>
+	@foreach (var item in Model)
+	{
+		<tr>
+			<td>@item.Id</td>
+			<td>@item.Name</td>
+			<td>@item.Fiyat</td>
+			<td>
+				<a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-danger">Sil</a>
+				<a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-info">Güncelle</a>
+			</td>
+			
+		</tr>
+	}
+</table>
+
